@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Entrega1</string>
+    <string name="flag">Ελλάδα</string>
+    <string name="food">Γεμισμένο</string>
+    <string name="paises">" χώρες"</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Entrega1</string>
+    <string name="flag">中國</string>
+    <string name="food">炒麵</string>
+    <string name="paises">國家</string>
+</resources>

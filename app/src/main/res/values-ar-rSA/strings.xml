@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Entrega1</string>
+    <string name="paises">الدول</string>
+    <string name="flag">"المملكة العربية السعودية "</string>
+    <string name="food">كباب</string>
+</resources>
